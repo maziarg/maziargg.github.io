@@ -10,9 +10,10 @@
 My broad research domains are machine learning, reinforcement learning and data privacy. My current reserach focus is on developing privacy-preserving machine learning systems. My goal is to design and develope privacy-aware machine learning algorithms that serve as the main core of AI systems. 
 
 During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first membersbership infrence attacked against off-policy RL systems.
+  
 ## Projects
 
-**Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate theme is designed to get rolling immediately. Install it, configure it, tweak it, push it.**
+**TBA.**
 
 ## Research
 
