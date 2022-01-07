@@ -44,6 +44,6 @@ Here are a few examples of Alembic out in the wild being used in a variety of wa
 <br/>
 
 
-<a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;
-[<img src="images/social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;
-[<img src="images/social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/)
+<a href="mailto:gomrokma@mila.quebec"><img src="social/email_bw.png" width="30"></a> &nbsp;&nbsp;
+[<img src="social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;
+[<img src="social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/)
