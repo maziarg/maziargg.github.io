@@ -1,7 +1,7 @@
 # Maziar Gomrokchi
 
 <p align="center">
-  <img src="image/profile.png" width="200"/>
+  <img src="images/profile.png" width="200"/>
 
 ![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
 
